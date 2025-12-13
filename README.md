@@ -1,27 +1,38 @@
 # Givr
 
-Welcome to Givr's GitHub organization! 🎁
+Welcome to Givr's GitHub organization.
 
 ## About Us
 
-[Givr](https://givr.app) is building the future of gifting and celebrations. We're on a mission to make giving and receiving gifts more meaningful, personal, and joyful.
+[Givr](https://givr.app) is building a new era of giving. We transform your everyday shopping into powerful donations for charity while earning you rewards. Our platform seamlessly integrates charitable giving into consumer behavior, making it effortless to support the causes you care about.
 
-## Join Our Team
+## Our Tech Stack
 
-We're always looking for talented individuals to join our team! Check out our open positions and learn more about working at Givr:
+**Frontend**
+- Next.js 15 (App Router with React Server Components)
+- TypeScript
+- Tailwind CSS
+- shadcn/ui
 
-🔗 [View Career Opportunities](https://givr.app/careers/)
+**Backend**
+- Go with Encore.dev
+- OpenAPI code generation
 
-### Our Tech Stack
+**Database**
+- PostgreSQL
+- Supabase (real-time features, auth, RLS policies)
 
-We work with modern technologies including:
-- Full-stack development with cutting-edge frameworks
-- Cloud-native architecture
-- Scalable backend systems
-- Responsive and intuitive frontend design
+**Testing & Infrastructure**
+- Playwright for E2E testing
+- GitHub Actions CI/CD
+- Vercel deployment
 
-Learn more about our technology and culture by exploring our [open positions](https://givr.app/careers/senior-fullstack-engineer).
+## Careers
+
+We're looking for talented people to join our team. Check out our open positions:
+
+[View Career Opportunities](https://givr.app/careers/)
 
 ---
 
-For more information about Givr, visit [givr.app](https://givr.app)
+[givr.app](https://givr.app) | [hello@givr.app](mailto:hello@givr.app)
