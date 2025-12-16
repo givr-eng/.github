@@ -1,0 +1,38 @@
+# Givr
+
+Welcome to Givr's GitHub organization.
+
+## About Us
+
+[Givr](https://givr.app) is building a new era of giving. We transform your everyday shopping into powerful donations for charity while earning you rewards. Our platform seamlessly integrates charitable giving into consumer behavior, making it effortless to support the causes you care about.
+
+## Our Tech Stack
+
+**Frontend**
+- Next.js 15 (App Router with React Server Components)
+- TypeScript
+- Tailwind CSS
+- shadcn/ui
+
+**Backend**
+- Go with Encore.dev
+- OpenAPI code generation
+
+**Database**
+- PostgreSQL
+- Supabase (real-time features, auth, RLS policies)
+
+**Testing & Infrastructure**
+- Playwright for E2E testing
+- GitHub Actions CI/CD
+- Vercel deployment
+
+## Careers
+
+We're looking for talented people to join our team. Check out our open positions:
+
+[View Career Opportunities](https://givr.app/careers/)
+
+---
+
+[givr.app](https://givr.app) | [hello@givr.app](mailto:hello@givr.app)
