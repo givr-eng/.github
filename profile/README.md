@@ -4,7 +4,7 @@ Welcome to Givr's GitHub organisation.
 
 ## About Us
 
-[Givr](https://givr.app) is building a new era of giving. We transform your everyday shopping into powerful donations for charity while earning you rewards. Our platform seamlessly integrates charitable giving into consumer behaviour, making it effortless to support the causes you care about.
+[Givr](https://givr.app) is building a new era of giving. We transform your everyday shopping into powerful donations for a charity of your choie. Our platform seamlessly integrates charitable giving into consumer behaviour, making it effortless to support the causes you care about.
 
 ## AI-First Engineering
 
