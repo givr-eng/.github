@@ -1,10 +1,18 @@
 # Givr
 
-Welcome to Givr's GitHub organization.
+Welcome to Givr's GitHub organisation.
 
 ## About Us
 
-[Givr](https://givr.app) is building a new era of giving. We transform your everyday shopping into powerful donations for charity while earning you rewards. Our platform seamlessly integrates charitable giving into consumer behavior, making it effortless to support the causes you care about.
+[Givr](https://givr.app) is building a new era of giving. We transform your everyday shopping into powerful donations for charity while earning you rewards. Our platform seamlessly integrates charitable giving into consumer behaviour, making it effortless to support the causes you care about.
+
+## AI-First Engineering
+
+We're an AI-first engineering team, leveraging AI tools throughout our development workflow:
+
+- **Claude Code & Cursor** for AI-assisted coding
+- **GitHub SpecKit** for feature development
+- **CodeRabbit & Greptile** for automated code review
 
 ## Our Tech Stack
 
